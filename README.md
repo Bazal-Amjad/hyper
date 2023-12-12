@@ -1,2 +1,2 @@
 # hyper
-| Tech-Hub |https://bazal-amjad.github.io/hyper/|
+| Tech-Hub | [View Demo(https://bazal-amjad.github.io/hyper/) |
